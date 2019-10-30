@@ -19,7 +19,7 @@
     "cookie": "0.1.1",
     "cookie-parser": "^1.4.4",
     "csurf": "^1.10.0",
-    "ejs": "0.8.5",
+    "ejs": "2.5.5",
     "express": "4.6.1",
     "express-partials": "0.2.0",
     "express-session": "^1.16.2",
