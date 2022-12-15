@@ -20,7 +20,7 @@
     "cookie-parser": "^1.4.4",
     "csurf": "^1.10.0",
     "ejs": "2.5.5",
-    "express": "4.6.1",
+    "express": "4.17.3",
     "express-partials": "0.2.0",
     "express-session": "^1.16.2",
     "passport": "^0.4.0",
